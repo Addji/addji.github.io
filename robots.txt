@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhumu_website.github.io/sitemap.xml
+Sitemap: https://addji.github.io/sitemap.xml
