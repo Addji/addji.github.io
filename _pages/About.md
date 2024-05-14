@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: <a href='#'>North Carolina State University</a>. 
 
-zhumu@udel.edu. zhumu73@gmail.com
+zhumu@udel.edu
 
 profile:
   align: right
