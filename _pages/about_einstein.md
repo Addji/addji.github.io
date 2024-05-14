@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Mu Zhu acquired a dual Bachelor's Degree in Electronic Engineering and Finance from Zhengzhou University before relocating to the United States to pursue a Master's Degree in Computer Engineering at the University of Delaware. His interest in cybersecurity and encryption led him to dedicate a significant portion of his Master's studies to these areas.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Under the guidance of Dr. Munindar P. Singh during his doctoral studies at NCSU, Mu delved deeper into the field of cybersecurity, completing his Ph.D. in 2024. Influenced by Sun Tzu's renowned book, The Art of War, which posits that all warfare is rooted in deception, Mu's primary research focus became defensive deception, a strategy used to confuse, lure, and mislead digital attackers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+After earning his Ph.D., Mu returned to China to further his research on attack behavior analysis and the enhancement of defense technologies and strategies.
