@@ -13,9 +13,9 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-# news: true # includes a list of news items
-# selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true # includes social icons at the bottom of the page
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 Mu Zhu acquired a dual Bachelor's Degree in Electronic Engineering and Finance from Zhengzhou University before relocating to the United States to pursue a Master's Degree in Computer Engineering at the University of Delaware. His interest in cybersecurity and encryption led him to dedicate a significant portion of his Master's studies to these areas.
