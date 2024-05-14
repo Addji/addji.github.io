@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href='#'>North Carolina State University</a>. zhumu@udel.edu
 
