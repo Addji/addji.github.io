@@ -110,7 +110,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # blog_name: al-folio # blog_name will be displayed in your blog page
 # blog_description: a simple whitespace theme for academics
-# permalink: /blog/:year/:title/
+# : /blog/:year/:title/
 
 # # Pagination
 # pagination:
@@ -155,10 +155,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 #     defaults:
 #       layout: post
 #     output: true
-#     permalink: /news/:path/
+#     : /news/:path/
 #   projects:
 #     output: true
-#     permalink: /projects/:path/
+#     : /projects/:path/
 
 # announcements:
 #   enabled: true
@@ -264,7 +264,7 @@ jekyll-archives:
     year: archive-year
     tag: archive-tag
     category: archive-category
- # permalinks:
+ # s:
  #   year: "/blog/:year/"
 #    tag: "/blog/tag/:name/"
 #    category: "/blog/category/:name/"
