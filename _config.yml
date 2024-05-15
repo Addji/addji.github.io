@@ -281,7 +281,7 @@ scholar:
   first_name: [Mu]
 
   style: apa
-  locale: en,cn
+  locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
