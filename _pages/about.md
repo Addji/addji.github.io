@@ -2,13 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>North Carolina State University</a><p>zhumu@udel.edu</p>
+subtitle: <a href='#'>North Carolina State University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>zhumu@udel.edu</p>
     <p>Raleigh, North Carolina</p>
 ---
 
