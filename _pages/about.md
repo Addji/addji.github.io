@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>zhumu@udel.edu</p>
     <p>zhumu@udel.edu</p>
-    <p>zhumu@udel.edu</p>
     <p>Raleigh, North Carolina</p>
 ---
 
