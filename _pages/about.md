@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /
 subtitle: <a href='#'>North Carolina State University</a>
 
 profile:
